@@ -1,0 +1,7 @@
+C:\Users\Олжас\source\repos\Reflecsya\Reflecsya\bin\Debug\Reflecsya.exe.config
+C:\Users\Олжас\source\repos\Reflecsya\Reflecsya\bin\Debug\Reflecsya.exe
+C:\Users\Олжас\source\repos\Reflecsya\Reflecsya\bin\Debug\Reflecsya.pdb
+C:\Users\Олжас\source\repos\Reflecsya\Reflecsya\obj\Debug\Reflecsya.csprojAssemblyReference.cache
+C:\Users\Олжас\source\repos\Reflecsya\Reflecsya\obj\Debug\Reflecsya.csproj.CoreCompileInputs.cache
+C:\Users\Олжас\source\repos\Reflecsya\Reflecsya\obj\Debug\Reflecsya.exe
+C:\Users\Олжас\source\repos\Reflecsya\Reflecsya\obj\Debug\Reflecsya.pdb
